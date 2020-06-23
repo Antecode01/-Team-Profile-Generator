@@ -2,8 +2,10 @@
 
 Team profile generator helps employers to dynamically generate employee inforamtion.
 
-#Screenshot
+# Screenshot
+
 ![homescreen](Assets/homescreen.png)
 
-#Gif
+# Gif
+
 ![TeamProfileGeneratorApp](Assets/TeamProfileGeneratorApp.gif)
